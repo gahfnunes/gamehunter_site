@@ -7,7 +7,7 @@
     </head>
     <body>
         <ul>
-            <li><a href="home.php">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="meusj.php">Meus Jogos</a></li>
             <li><a href="amigos.php">Amigos</a></li>
             <li><a href="perfil.php">Perfil</a></li>
