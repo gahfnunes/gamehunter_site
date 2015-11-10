@@ -1,18 +1,19 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Home</title>
+        <title>Game Hunter | Home</title>
+		<link rel="icon" href="imagens/ico.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="imagens/icon.ico" type="image/x-icon" />
     </head>
     <body>
         <ul>
-            <li><a href="home;php">Home</a></li>
+            <li><a href="home.php">Home</a></li>
             <li><a href="meusj.php">Meus Jogos</a></li>
             <li><a href="amigos.php">Amigos</a></li>
             <li><a href="perfil.php">Perfil</a></li>
         </ul>
         <h1>Bem-vindo!</h1>
-        <h2>Para ter total acesso, por favor faca o <a href="login.php">login</a> com a sua conta do facebook.</h2>
+        <h2>Para ter total acesso, por favor faça o <a href="login.php">login</a> com a sua conta do facebook.</h2>
         <ul>
             <li><h3>Noticias</h3></li>
             <li>Nova expansao World of Warcraf Legion e anunciada na BlizzCon.</li>
